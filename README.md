@@ -11,7 +11,7 @@ A pixel-perfect clone of **Amazon's homepage** built using only **HTML & CSS** �
 <!-- Add your screenshot here after uploading it to the repo -->
 > 📌 *Screenshot taken on a laptop screen at 1920×1080 resolution*
 
-![Amazon Clone Preview](images)
+![Amazon Clone Preview](images/ama.png)
 
 ---
 
@@ -104,7 +104,7 @@ git clone https://github.com/loedex/amazon-UI-clone-html-css.git
 
 **Step 2 — Navigate into the project folder**
 ```bash
-cd amazon-clone-html-css
+cd amazon-UI-clone-html-css
 ```
 
 **Step 3 — Open in browser**
